@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>berlangganan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d674973-c98c-4195-8a40-ab4944ce59f6</testCaseGuid>
+   <variable>
+      <defaultValue>'https://gerai.kompas.id/belanja/harian-kompas/kompas-digital-premium/'</defaultValue>
+      <description></description>
+      <id>b0e9d829-2f2b-45d3-b423-33c02ec5d23b</id>
+      <masked>false</masked>
+      <name>expectedUrl</name>
+   </variable>
+</TestCaseEntity>

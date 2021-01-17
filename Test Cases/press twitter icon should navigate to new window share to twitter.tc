@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>when facebook icon pressed show popup to share to facebook</description>
+   <name>press twitter icon should navigate to new window share to twitter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9d3c96f-438e-4b6e-8795-87ea2354fa16</testCaseGuid>
+   <variable>
+      <defaultValue>'Compose new Tweet / Twitter'</defaultValue>
+      <description></description>
+      <id>d70f1888-9256-4551-b29a-5ed0f2fa7b1f</id>
+      <masked>false</masked>
+      <name>windowTitle</name>
+   </variable>
+</TestCaseEntity>

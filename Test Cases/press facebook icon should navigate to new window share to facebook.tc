@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>when facebook icon pressed show popup to share to facebook</description>
+   <name>press facebook icon should navigate to new window share to facebook</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>abb5127f-5488-47cf-8aba-0760c5046037</testCaseGuid>
+</TestCaseEntity>

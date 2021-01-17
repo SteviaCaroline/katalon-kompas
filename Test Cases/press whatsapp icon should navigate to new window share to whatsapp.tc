@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>when facebook icon pressed show popup to share to facebook</description>
+   <name>press whatsapp icon should navigate to new window share to whatsapp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f818eb18-eb0f-41fd-b500-5b2426ad1843</testCaseGuid>
+   <variable>
+      <defaultValue>'Share on WhatsApp'</defaultValue>
+      <description></description>
+      <id>8b314c20-4142-4962-9ebf-dd613b5fe77b</id>
+      <masked>false</masked>
+      <name>titleName</name>
+   </variable>
+</TestCaseEntity>
